@@ -121,37 +121,12 @@
 <a id="Contributing"></a>
 ## :handshake: Contributing
 
-We appreciate all contributions, no matter how small. Thank you for helping us make this repository even better!
-
-Want to help improve this repository? Here's how:
-
-1. **Fork this repo**: Click the ```Fork``` button at the top right.
-2. **Clone your fork**:
-  ```bash
-  $ git clone https://github.com/<your-username>/<your-repository>.git
-  $ cd <your-repository>/
-  ```
-3. **Create a new branch**:
-  ```bash
-  $ git switch -c <your-branch-name>
-  ```
-4. **Edit the README.md**: Make your changes to the ```README.md``` file.
-5. **Commit your changes**:
-  ```bash
-  $ git add .
-  $ git commit -m "<Describe your changes>"
-  ```
-6. **Push your changes**:
-  ```bash
-  $ git push origin <your-branch-name>
-  ```
-7. **Create a Pull Request**: Go to the original repository, click ```Pull Requests```, then ```New Pull Request```. Select your branch and describe your changes, then submit.
-8. **Respond to Feedback**: Be ready to respond to any feedback or questions during the review process.
+[This template is provided under a [Contribution Guidelines](CONTRIBUTING.md). However, you are free to choose a different contribution guideline for your own "Awesome" if you wish...]
 
 <a id="License"></a>
 ## :scroll: License
 
-This template is provided under the [MIT License](LICENSE). However, you are free to choose a different license for your own "Awesome" if you wish.
+[This template is provided under the [MIT License](LICENSE). However, you are free to choose a different license for your own "Awesome" if you wish...]
 
 <a id="About"></a>
 ## :sparkling_heart: About
@@ -164,4 +139,4 @@ If you find this repository useful, please consider giving it a "Star".
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Give_a_Star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/<your-username>/<your-repository>/stargazers)
 
-### **¡Thanks for visiting! :octocat:**
+### **¡Thanks for visiting!**
