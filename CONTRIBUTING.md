@@ -54,4 +54,3 @@ We welcome pull requests for bug fixes, new features, and documentation improvem
 - Write clear, concise, and meaningful commit messages.
 - Ensure your code passes all tests and adheres to the project's linting rules.
 
-**Thank you for your contributions!**
